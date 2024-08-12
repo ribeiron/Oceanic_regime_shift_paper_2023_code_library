@@ -1,6 +1,5 @@
 # Oceanic_regime_shift_paper_2023_code_library
-This is the repository for the code used for the manuscript: (insert link when online)
-
+This is the repository for the code used for the manuscript: https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JC019882
 In the Figures folder, one can find all the code to reproduce the figures in the paper. 
 The code for processing, investigating, testing, analysis and all the research work done prior to the publishing of this paper can be provided by request. However, it isn't very organized or easy to follow. It is a direct copy of my repository and the worst practices that I follow. If you have trouble looking for something specific - because you will have trouble if you try - please contact me again. 
 
